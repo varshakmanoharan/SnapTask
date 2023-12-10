@@ -1,0 +1,71 @@
+.Banner-B1 {
+    height: 506px;
+    width: 798px;
+    background-color: rgb(240, 240, 240);
+}
+
+.Banner-Head {
+    padding-top: 50px;
+    height: 100px;
+    width: 300px;
+
+}
+
+h1 {
+    font-size: 60px;
+    padding-top: 102px;
+    text-align: justify;
+    padding-left: 250px;
+}
+
+p {
+    padding-top: 20px;
+    padding-left: 250px;
+    text-align: justify;
+}
+
+#banner-button {
+    position: absolute;
+    top: 490px;
+    margin-right: 50px;
+    color: rgb(255, 254, 254);
+    background-color: #000000;
+    left: 250px;
+}
+
+#banner-button:hover {
+    color: black;
+    background-color: white;
+    border: 1px solid #000000;
+
+}
+
+.banner-div {
+    height: 617px;
+    width: 600px;
+    background-color: rgb(240, 240, 240);
+    margin-top: -490px;
+    margin-left: 795px;
+}
+
+#banner-desk {
+    height: 510px;
+    width: 400px
+}
+
+#banner-icons {
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 250px;
+}
+
+svg {
+    align-items: center;
+    text-align: justify;
+    margin-top: 110px;
+    margin-left: 20px;
+    column-gap: 10px;
+
+}
